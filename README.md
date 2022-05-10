@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Twinklesahni23
+- def twinkle():
+ skills_with_proficiency = {'Python': 'Intermediate', 'SQL': 'Intermidiate', 'Excel': 'Advance', 'Data Visualization': 'Advance', 'Machine Learning Algorithms':    'Intermediate', 'Statistical Analysis': 'Advance'}
+- tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'tableau', 'power bi']
+  background = [BA(H) Economics, MA Economics]
+  return ∞
 - 👀 I’m interested in learning and exploring dimensions of data science
-- 💞️ I’m looking to collaborate on various beginners projects for machine learning
+- 💞️ I’m looking to collaborate on various projects for machine learning
 - 📫 You can reach me via email: Twinklesahni2311@gmail.com or drop a message on LinkedIn at www.linkedin.com/in/twinklesahni2311
 
 <!---
