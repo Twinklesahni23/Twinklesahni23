@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/99166745/173052255-d6332b50-0bda-40bc-8d33-0fac225ea5e8.png)
+![image](https://user-images.githubusercontent.com/99166745/173068526-5591902c-a93e-494a-954f-60f3dffb60da.png)
 
 # 👋 Hey there!
 #### I am a self-taught data analytics and machine learning professional who is looking to widen the horizons into deep learning and AI. 
@@ -7,7 +7,7 @@
 - 👀 I’m looking to collaborate on various projects for machine learning
 - 💞️ Currently, working on some self-developed projects
 - 📫 You can reach me via :email:[twinklesahni2311@gmail.com](mailto:twinklesahni2311@example.com)
-  or connect with me on [LinkedIn](www.linkedin.com/in/twinklesahni2311)
+  or connect with me on [LinkedIn](https://www.linkedin.com/in/twinklesahni2311/)
 
 <!---
 Twinklesahni23/Twinklesahni23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
