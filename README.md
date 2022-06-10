@@ -25,13 +25,10 @@
 - :memo: Microsoft Word
 
 ## I also carry these few attributes:
-- :calling: Lucid Communication skills
-- :notebook_with_decorative_cover: Strong report writing 
-- :hourglass: Analytical Approach
-- 👀 Eye for Detail
-- :closed_book: Avid Learner
-- :two_women_holding_hands: Team Player
-- :twisted_rightwards_arrows: Quick Adaptability
+:calling: Lucid Communication skills | :notebook_with_decorative_cover: Strong report writing | 🤔 Critical thinking | ☑️ Probelm solving | :hourglass: Analytical Approach | 👀 Eye for Detail | :closed_book: Avid Learner | :two_women_holding_hands: Team Player | :twisted_rightwards_arrows: Quick Adaptability
+
+
+
 <!---
 Twinklesahni23/Twinklesahni23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
