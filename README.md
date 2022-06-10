@@ -2,7 +2,7 @@
 
 # 👋 Hey there!
 #### I am a self-taught data analytics and machine learning professional who is looking to widen the horizons into deep learning and AI. 
-#### Began to work as a research associate at IIM Lucknow only to realize how much I loved working with data and would want to work on the more applied side of it. Thus, the transition from academic to corporate professional happened. Falling in love with coding just came along.
+> Began my research journey at IIM Lucknow only to realize how much I loved working with data and would love to work on the more applied side of it. Thus, the transition from academic to corporate professional happened. Falling in love with coding just came along.
 - :woman_student: I have done my bachelors and masters in Economics
 - 👀 I’m looking to collaborate on various projects for machine learning
 - 💞️ Currently, working on some self-developed projects
