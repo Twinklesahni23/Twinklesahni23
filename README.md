@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/99166745/173068526-5591902c-a93e-494a-954f-60f3dffb60da.png)
+![image](https://user-images.githubusercontent.com/99166745/173371630-70ecc7d9-47df-4d73-9d19-a0b2ff44bef5.png)
 
 # 👋 Hey there!
 #### I am a self-taught data analytics and machine learning professional who is looking to widen the horizons into deep learning and AI. 
@@ -18,6 +18,7 @@
 - 🐍 Python : Numpy | Pandas | Seaborn | Matplotlib | Scipy | Scikit-learn
 - 🐬 SQL | MySQL | SQLlite
 - 🖥️ STATA
+- 🔡 Web Scrapping
 - :bar_chart: Microsoft PowerBI
 - :negative_squared_cross_mark: Advance Excel 
 - :vs: VSCode | Jupyter
