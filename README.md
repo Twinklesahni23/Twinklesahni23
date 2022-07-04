@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/99166745/173371630-70ecc7d9-47df-4d73-9d19-a0b2ff44bef5.png)
+![Green Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/99166745/177132765-b978b74a-bf13-44d6-99d6-37ef8d89334a.png)
 
 # 👋 Hey there!
 #### I am a self-taught data analytics and machine learning professional who is looking to widen the horizons into deep learning and AI. 
