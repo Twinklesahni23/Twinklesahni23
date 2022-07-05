@@ -1,7 +1,7 @@
 ![Green Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/99166745/177132765-b978b74a-bf13-44d6-99d6-37ef8d89334a.png)
 
 # 👋 Hey there!
-#### I am a self-taught data analytics and machine learning professional who is looking to widen the horizons into deep learning and AI. 
+#### I am a self-taught data analytics and machine learning professional who is looking to widen her horizons into deep learning and AI. 
 > Began my research journey at IIM Lucknow only to realize how much I loved working with data and would love to work on the more applied side of it. Thus, the transition from academic to corporate professional happened. Falling in love with coding just came along.
 - :woman_student: I have done my bachelors and masters in Economics
 - 👀 I’m looking to collaborate on various projects for machine learning
