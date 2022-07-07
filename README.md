@@ -18,7 +18,7 @@
 - 🐍 Python : Numpy | Pandas | Seaborn | Matplotlib | Scipy | Scikit-learn
 - 🐬 SQL | MySQL | SQLlite
 - 🖥️ STATA
-- 🔡 Web Scrapping
+- 🔡 Web Scrapping: Requests | BeautifulSoup | Selenium | Octoparse
 - :bar_chart: Microsoft PowerBI
 - :negative_squared_cross_mark: Advance Excel 
 - :vs: VSCode | Jupyter
